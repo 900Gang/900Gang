@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! I’m a B.Tech Computer Science graduate based in Kerala, India. <br>I build things across the stack, ranging from scalable web applications to AI-driven IoT systems .<br> I love diving into complex system architectures, breaking down monolithic ideas into clean, efficient code, and occasionally deploying a smart contract or two.<br>When I'm not writing code or debugging build errors, you'll probably find me exploring a massive open-world RPG, keeping up with football and cricket, or figuring out how to connect things to power.
+Hey! I’m a aspiring Junior Software Engineer with aB.Tech in Computer Science Engineering graduate based in Kerala, India. <br>I build things across the stack, ranging from scalable web applications to AI-driven IoT systems .<br> I love diving into complex system architectures, breaking down monolithic ideas into clean, efficient code, and occasionally deploying a smart contract or two.<br>When I'm not writing code or debugging build errors, you'll probably find me exploring a massive open-world RPG, keeping up with football and cricket, or figuring out how to connect things to power.
 
 
 ## 🌐 Socials:
