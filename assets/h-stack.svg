@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 48" width="880" height="48" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" role="img" aria-label="$ cat stack.md">
+  <defs><clipPath id="t"><rect x="312.8" y="10" width="115.2" height="28">
+    <animate attributeName="width" calcMode="discrete" values="0.0;0.0;9.6;19.2;28.8;38.4;48.0;57.6;67.2;76.8;86.4;96.0;105.6;115.2;115.2" keyTimes="0.0000;0.0600;0.0820;0.1040;0.1260;0.1480;0.1700;0.1920;0.2140;0.2360;0.2580;0.2800;0.3020;0.3240;1.0000" dur="9s" repeatCount="indefinite"/>
+  </rect></clipPath></defs>
+  <rect x="1" y="1" width="878" height="46" rx="10" fill="#1e1e2e" stroke="#45475a" stroke-width="2"/>
+  <circle cx="24" cy="24" r="5" fill="#f38ba8"/><circle cx="42" cy="24" r="5" fill="#f9e2af"/><circle cx="60" cy="24" r="5" fill="#a6e3a1"/>
+  <text x="86" y="30" font-size="16" textLength="220.8" lengthAdjust="spacing"><tspan fill="#a6e3a1" font-weight="700">anand@900gang</tspan><tspan fill="#cdd6f4">:</tspan><tspan fill="#89b4fa" font-weight="700">~/stack</tspan><tspan fill="#cdd6f4">$ </tspan></text>
+  <g clip-path="url(#t)"><text x="312.8" y="30" font-size="16" fill="#cdd6f4" textLength="115.2" lengthAdjust="spacing">cat stack.md</text></g>
+  <rect x="311.8" y="14" width="9" height="19" fill="#cdd6f4">
+    <animate attributeName="x" calcMode="discrete" values="311.8;311.8;321.4;331.0;340.6;350.2;359.8;369.4;379.0;388.6;398.2;407.8;417.4;427.0;427.0" keyTimes="0.0000;0.0600;0.0820;0.1040;0.1260;0.1480;0.1700;0.1920;0.2140;0.2360;0.2580;0.2800;0.3020;0.3240;1.0000" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" calcMode="discrete" values="1;1;0;1;0;1;0;1;0;1;0;1;0;1;0;0" keyTimes="0.0000;0.3240;0.3740;0.4240;0.4740;0.5240;0.5740;0.6240;0.6740;0.7240;0.7740;0.8240;0.8740;0.9240;0.9740;1.0000" dur="9s" repeatCount="indefinite"/>
+  </rect>
+  <text x="856" y="30" text-anchor="end" font-size="14" fill="#6c7086">[02]</text>
+</svg>

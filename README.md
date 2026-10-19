@@ -1,27 +1,117 @@
-# 💫 About Me:
-Hey! I’m a aspiring Junior Software Engineer with aB.Tech in Computer Science Engineering graduate based in Kerala, India. <br>I build things across the stack, ranging from scalable web applications to AI-driven IoT systems .<br> I love diving into complex system architectures, breaking down monolithic ideas into clean, efficient code, and occasionally deploying a smart contract or two.<br>When I'm not writing code or debugging build errors, you'll probably find me exploring a massive open-world RPG, keeping up with football and cricket, or figuring out how to connect things to power.
+<div align="center">
 
+<img src="assets/banner.svg" alt="Anand N | Junior Software Engineer | neofetch terminal" width="100%">
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/nano-machine.bsky.social) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Anand AN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.a_nand._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anand-n-anand-n ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@anandanand6776) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anandanand6776) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anand N-) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Icy-Competition9106) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Anand N-) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nanomachine65) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@NANO_MACHINE7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@mangareader994) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@Anand-N-) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@nano_machine7@mastodon.social) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anandanand6776@gmail.com) 
+<a href="https://github.com/900Gang"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3200&pause=900&color=A6E3A1&center=true&vCenter=true&width=720&height=40&lines=Scalable+web+applications;AI-driven+IoT+systems;Clean%2C+efficient+code" alt="Typing animation"></a>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=900Gang&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=900Gang&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=900Gang&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://komarev.com/ghpvc/?username=900Gang&label=PROFILE+VIEWS&color=a6e3a1&style=flat-square" alt="Profile views">
+<img src="https://img.shields.io/github/followers/900Gang?label=FOLLOWERS&style=flat-square&labelColor=1e1e2e&color=a6e3a1" alt="Followers">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=900Gang&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=900Gang&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="assets/h-about.svg" alt="About" width="100%">
 
----
-[![](https://komarev.com/ghpvc/?username=900Gang&icon=10&color=4)](https://visitcount.itsvg.in)
+```bash
+$ whoami
+anand: junior software engineer, B.Tech CSE, Yangtso Four Labs, Bengaluru
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+$ cat focus.txt
+full-stack web | AI / ML | IoT systems
+
+$ cat off-duty.txt
+open-world RPGs | football | cricket | the odd smart contract
+```
+
+Junior software engineer and Computer Science graduate from Kerala, now in Bengaluru. I build across the stack, from scalable web apps to AI-driven IoT systems, and I like turning complex ideas into clean, efficient code.
+
+<br>
+
+<img src="assets/h-stack.svg" alt="Tech Stack" width="100%">
+
+<table>
+  <tr><td width="150"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=js,ts,py,html,css,cs&theme=dark" alt="JavaScript, TypeScript, Python, HTML, CSS, C#"></td></tr>
+  <tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=react,flutter,bootstrap&theme=dark" alt="React, Flutter, Bootstrap"></td></tr>
+  <tr><td><b>Backend and data</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,django,dotnet,mysql,postgres,firebase&theme=dark" alt="Node.js, Django, .NET, MySQL, PostgreSQL, Firebase"></td></tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" alt="TensorFlow, PyTorch"><br>
+      <img src="https://img.shields.io/badge/Keras-1e1e2e?style=flat-square&logo=keras&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="Keras">
+      <img src="https://img.shields.io/badge/scikit--learn-1e1e2e?style=flat-square&logo=scikitlearn&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="scikit-learn">
+      <img src="https://img.shields.io/badge/NumPy-1e1e2e?style=flat-square&logo=numpy&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="NumPy">
+      <img src="https://img.shields.io/badge/Pandas-1e1e2e?style=flat-square&logo=pandas&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="Pandas">
+      <img src="https://img.shields.io/badge/Matplotlib-1e1e2e?style=flat-square&logo=plotly&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="Matplotlib">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud and DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,githubactions&theme=dark" alt="AWS, Google Cloud, Docker, Git, GitHub, GitHub Actions"><br>
+      <img src="https://img.shields.io/badge/Oracle-1e1e2e?style=flat-square&logo=oracle&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="Oracle">
+    </td>
+  </tr>
+  <tr><td><b>IoT and game dev</b></td><td><img src="https://skillicons.dev/icons?i=arduino,unity,unreal&theme=dark" alt="Arduino, Unity, Unreal Engine"></td></tr>
+</table>
+
+<br>
+
+<img src="assets/h-projects.svg" alt="Featured Projects" width="100%">
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/900Gang/Real-Time-Identification-Of-Learning-Disabilities-In-Students-Using-AI-And-IoT-"><img src="assets/card-learning-disabilities.svg" alt="Learning-Disabilities-AI-IoT" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/900Gang/-HEMATOLOGY-SCREENING-WITH-AI-"><img src="assets/card-hematology.svg" alt="Hematology-Screening-AI" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/900Gang/Agent-Court"><img src="assets/card-agent-court.svg" alt="Agent-Court" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/900Gang/Gilto"><img src="assets/card-gilto.svg" alt="Gilto" width="100%"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/900Gang/Bilbo"><img src="assets/card-bilbo.svg" alt="Bilbo" width="100%"></a></td>
+    <td width="50%"><a href="https://github.com/900Gang/Portfolio_Django_"><img src="assets/card-portfolio.svg" alt="Portfolio_Django_" width="100%"></a></td>
+  </tr>
+</table>
+
+<br>
+
+<img src="assets/h-stats.svg" alt="GitHub Stats" width="100%">
+
+<div align="center">
+  <img src="profile-summary-card-output/dracula/3-stats.svg" alt="GitHub stats" width="49%">
+  <img src="profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most committed languages" width="49%">
+  <img src="profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Repositories per language" width="49%">
+  <img src="profile-summary-card-output/dracula/4-productive-time.svg" alt="Productive time of day" width="49%">
+</div>
+
+<br>
+
+<img src="assets/h-contact.svg" alt="Contact" width="100%">
+
+<div align="center">
+
+<a href="mailto:anandanand6776@gmail.com"><img src="https://img.shields.io/badge/EMAIL-1e1e2e?style=for-the-badge&logo=gmail&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="EMAIL"></a>
+<a href="https://www.linkedin.com/in/anand-n-anand-n"><img src="https://img.shields.io/badge/LINKEDIN-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="LINKEDIN"></a>
+<a href="https://orcid.org/0009-0005-9164-7540"><img src="https://img.shields.io/badge/ORCID-1e1e2e?style=for-the-badge&logo=orcid&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="ORCID"></a>
+<a href="https://github.com/900Gang"><img src="https://img.shields.io/badge/GITHUB-1e1e2e?style=for-the-badge&logo=github&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="GITHUB"></a>
+
+<!--
+More socials, ready to use. Move a line out of this comment and replace YOUR_HANDLE.
+<a href="https://x.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/X-1e1e2e?style=for-the-badge&logo=x&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="X"></a>
+<a href="https://instagram.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/INSTAGRAM-1e1e2e?style=for-the-badge&logo=instagram&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="INSTAGRAM"></a>
+<a href="https://medium.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/MEDIUM-1e1e2e?style=for-the-badge&logo=medium&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="MEDIUM"></a>
+<a href="https://youtube.com/@YOUR_HANDLE"><img src="https://img.shields.io/badge/YOUTUBE-1e1e2e?style=for-the-badge&logo=youtube&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="YOUTUBE"></a>
+<a href="https://bsky.app/profile/YOUR_HANDLE"><img src="https://img.shields.io/badge/BLUESKY-1e1e2e?style=for-the-badge&logo=bluesky&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="BLUESKY"></a>
+<a href="https://mastodon.social/@YOUR_HANDLE"><img src="https://img.shields.io/badge/MASTODON-1e1e2e?style=for-the-badge&logo=mastodon&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="MASTODON"></a>
+<a href="https://reddit.com/user/YOUR_HANDLE"><img src="https://img.shields.io/badge/REDDIT-1e1e2e?style=for-the-badge&logo=reddit&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="REDDIT"></a>
+<a href="https://stackoverflow.com/users/YOUR_ID"><img src="https://img.shields.io/badge/STACK_OVERFLOW-1e1e2e?style=for-the-badge&logo=stackoverflow&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="STACK_OVERFLOW"></a>
+<a href="https://codepen.io/YOUR_HANDLE"><img src="https://img.shields.io/badge/CODEPEN-1e1e2e?style=for-the-badge&logo=codepen&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="CODEPEN"></a>
+<a href="https://twitch.tv/YOUR_HANDLE"><img src="https://img.shields.io/badge/TWITCH-1e1e2e?style=for-the-badge&logo=twitch&logoColor=cba6f7&labelColor=1e1e2e&color=45475a" alt="TWITCH"></a>
+-->
+
+<br><br>
+
+<img src="assets/footer.svg" alt="Logout" width="100%">
+
+</div>

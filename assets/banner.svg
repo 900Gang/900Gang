@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" font-family="'JetBrains Mono', 'Cascadia Code', Consolas, 'Courier New', monospace" role="img" aria-label="Terminal window showing neofetch output for Anand N">
+  <defs>
+    <linearGradient id="logo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#cba6f7"/><stop offset="1" stop-color="#89b4fa"/></linearGradient>
+    <clipPath id="typed"><rect x="232" y="70" width="86.4" height="30">
+      <animate attributeName="width" calcMode="discrete" values="0.0;0.0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;86.4" keyTimes="0.0000;0.0300;0.0425;0.0550;0.0675;0.0800;0.0925;0.1050;0.1175;0.1300;1.0000" dur="12s" repeatCount="indefinite"/>
+    </rect></clipPath>
+  </defs>
+  <rect x="1" y="1" width="1198" height="458" rx="14" fill="#1e1e2e" stroke="#45475a" stroke-width="2"/>
+  <path d="M1 15A14 14 0 0 1 15 1H1185A14 14 0 0 1 1199 15V44H1Z" fill="#181825"/>
+  <line x1="1" y1="44" x2="1199" y2="44" stroke="#313244"/>
+  <circle cx="30" cy="23" r="7" fill="#f38ba8"/><circle cx="54" cy="23" r="7" fill="#f9e2af"/><circle cx="78" cy="23" r="7" fill="#a6e3a1"/>
+  <text x="600" y="28" text-anchor="middle" font-size="14" fill="#9399b2">anand@900gang: ~</text>
+
+  <g>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.94;0.98;1" dur="12s" repeatCount="indefinite"/>
+
+    <text x="40" y="92" font-size="18" textLength="184" lengthAdjust="spacing"><tspan fill="#a6e3a1" font-weight="700">anand@900gang</tspan><tspan fill="#cdd6f4">:</tspan><tspan fill="#89b4fa" font-weight="700">~</tspan><tspan fill="#cdd6f4">$ </tspan></text>
+    <g clip-path="url(#typed)"><text x="232" y="92" font-size="18" fill="#cdd6f4" textLength="86.4" lengthAdjust="spacing">neofetch</text></g>
+    <rect x="231" y="76" width="10" height="19" fill="#cdd6f4">
+      <animate attributeName="x" calcMode="discrete" values="231.0;231.0;241.8;252.6;263.4;274.2;285.0;295.8;306.6;317.4;317.4" keyTimes="0.0000;0.0300;0.0425;0.0550;0.0675;0.0800;0.0925;0.1050;0.1175;0.1300;1.0000" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.14;0.141;1" dur="12s" repeatCount="indefinite"/>
+    </rect>
+
+    <g transform="translate(150 130)"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1450;0.1530;1" dur="12s" repeatCount="indefinite"/>
+      <rect width="260" height="260" rx="40" fill="url(#logo)" fill-opacity="0.14" stroke="url(#logo)" stroke-width="3"/>
+      <text x="130" y="150" text-anchor="middle" font-size="96" font-weight="800" fill="url(#logo)">&gt;_</text>
+      <rect x="52" y="188" width="156" height="6" rx="3" fill="url(#logo)" fill-opacity="0.5">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1650;0.1730;1" dur="12s" repeatCount="indefinite"/>
+      <text x="560" y="136" font-size="26" font-weight="800"><tspan fill="#a6e3a1">anand</tspan><tspan fill="#cdd6f4">@</tspan><tspan fill="#a6e3a1">900gang</tspan></text>
+      <line x1="560" y1="152" x2="1100" y2="152" stroke="#45475a"/>
+    </g>
+    <text x="560" y="184" font-size="18"><tspan fill="#cba6f7" font-weight="700">Role</tspan><tspan fill="#6c7086">: </tspan><tspan fill="#cdd6f4">Junior Software Engineer</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.1900;0.1980;1" dur="12s" repeatCount="indefinite"/></text><text x="560" y="214" font-size="18"><tspan fill="#cba6f7" font-weight="700">Education</tspan><tspan fill="#6c7086">: </tspan><tspan fill="#cdd6f4">B.Tech, Computer Science Engineering</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2110;0.2190;1" dur="12s" repeatCount="indefinite"/></text><text x="560" y="244" font-size="18"><tspan fill="#cba6f7" font-weight="700">Org</tspan><tspan fill="#6c7086">: </tspan><tspan fill="#cdd6f4">Yangtso Four Labs</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2320;0.2400;1" dur="12s" repeatCount="indefinite"/></text><text x="560" y="274" font-size="18"><tspan fill="#cba6f7" font-weight="700">Host</tspan><tspan fill="#6c7086">: </tspan><tspan fill="#cdd6f4">Bengaluru, India</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2530;0.2610;1" dur="12s" repeatCount="indefinite"/></text><text x="560" y="304" font-size="18"><tspan fill="#cba6f7" font-weight="700">Focus</tspan><tspan fill="#6c7086">: </tspan><tspan fill="#cdd6f4">Full-stack web, AI / ML, IoT</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2740;0.2820;1" dur="12s" repeatCount="indefinite"/></text><text x="560" y="334" font-size="18"><tspan fill="#cba6f7" font-weight="700">Langs</tspan><tspan fill="#6c7086">: </tspan><tspan fill="#cdd6f4">Python, JavaScript, TypeScript, C#</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2950;0.3030;1" dur="12s" repeatCount="indefinite"/></text><text x="560" y="364" font-size="18"><tspan fill="#cba6f7" font-weight="700">Off-duty</tspan><tspan fill="#6c7086">: </tspan><tspan fill="#cdd6f4">Open-world RPGs, football, cricket</tspan><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3160;0.3240;1" dur="12s" repeatCount="indefinite"/></text>
+    <rect x="560" y="398" width="36" height="22" fill="#f38ba8"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3700;0.3780;1" dur="12s" repeatCount="indefinite"/></rect><rect x="596" y="398" width="36" height="22" fill="#fab387"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3820;0.3900;1" dur="12s" repeatCount="indefinite"/></rect><rect x="632" y="398" width="36" height="22" fill="#f9e2af"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.3940;0.4020;1" dur="12s" repeatCount="indefinite"/></rect><rect x="668" y="398" width="36" height="22" fill="#a6e3a1"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4060;0.4140;1" dur="12s" repeatCount="indefinite"/></rect><rect x="704" y="398" width="36" height="22" fill="#94e2d5"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4180;0.4260;1" dur="12s" repeatCount="indefinite"/></rect><rect x="740" y="398" width="36" height="22" fill="#89b4fa"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4300;0.4380;1" dur="12s" repeatCount="indefinite"/></rect><rect x="776" y="398" width="36" height="22" fill="#cba6f7"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4420;0.4500;1" dur="12s" repeatCount="indefinite"/></rect><rect x="812" y="398" width="36" height="22" fill="#cdd6f4"><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4540;0.4620;1" dur="12s" repeatCount="indefinite"/></rect>
+
+    <g><animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.4600;0.4680;1" dur="12s" repeatCount="indefinite"/>
+      <text x="40" y="436" font-size="18" textLength="184" lengthAdjust="spacing"><tspan fill="#a6e3a1" font-weight="700">anand@900gang</tspan><tspan fill="#cdd6f4">:</tspan><tspan fill="#89b4fa" font-weight="700">~</tspan><tspan fill="#cdd6f4">$ </tspan></text>
+      <rect x="236" y="421" width="11" height="20" fill="#cdd6f4">
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</svg>
